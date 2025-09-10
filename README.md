@@ -1,6 +1,6 @@
-📌 Aula 04: Introdução ao Web Scraping
+# 📌 Aula 04: Introdução ao Web Scraping  
 
-## 📖 Sobre o Projeto
+## 📖 Sobre o Projeto  
 Nesta atividade foi desenvolvido um **web scraping** para coletar informações de livros da categoria **Fantasia** do site [Books to Scrape](https://books.toscrape.com/).  
 
 Foram extraídos os seguintes dados de cada livro:  
